@@ -1,2 +1,3 @@
 Possible de déclar la numérotation des pages ? Oui mais galère, voir avec ma pute
 Légender les figures
+Changer les emplacements pour les titres
