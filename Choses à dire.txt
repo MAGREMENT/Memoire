@@ -1,0 +1,22 @@
+Présentation environnement :
+	- Nom maître de stage
+	- Nom promoteur
+	- Site de seraing
+	- Equipe MES
+C'est quoi une ouverture de chantier ?
+Pourquoi Migrer ?
+Le projet
+	- Technologies backend - frontend
+	- Garder la base de données intacte
+	- Objectifs
+La réalisation : 
+	- Ligne du temps : 1ère semaine d'analyse, ~8 semaines réalisation du scope initial, reste fonctionnalité bonus
+	- CRUD
+	- Nouvelle navigation
+	- Les questionnaires
+	- Thème dynamique
+	- Sécurité ?
+Bilan du projet.
+Bilan expérience.
+	- CONTENT
+	- Angular pourrait être mieux fait
